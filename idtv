@@ -46,22 +46,22 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="NASIONAL2",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:0,Maxstream, group-title="NASIONAL2"
+#EXTINF:0,group-title="NASIONAL2" Maxstream, 
 #EXTVLCOPT:network-caching=1000
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-#EXTINF:0,CITRA DRAMA, group-title="NASIONAL2"
+#EXTINF:0,group-title="NASIONAL2" CITRA DRAMA, 
 #EXTVLCOPT:network-caching=1000
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-#EXTINF:60, BN Channel, group-title="NASIONAL2"
+#EXTINF:60, group-title="NASIONAL2" BN Channel, 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:network-caching=1000
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
-#EXTINF:28,KOMPAS TV (D*), group-title="NASIONAL2"
+#EXTINF:28,group-title="NASIONAL2" KOMPAS TV (D*), 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:network-caching=1000
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
-#EXTINF:MD TV, group-title="NASIONAL2"
+#EXTINF:group-title="NASIONAL2" MD TV, 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:network-caching=1000
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
@@ -71,7 +71,7 @@ https://e.siar.us/live/surabayatv.m3u8
 
 
 
-#EXTINF:MOJI TV, group-title="NASIONAL2"
+#EXTINF:group-title="NASIONAL2" MOJI TV, 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:network-caching=1000
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -185,7 +185,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
-#EXTINF:0,JOWO TV, , group-title="NASIONAL2"
+#EXTINF:0,group-title="NASIONAL2" JOWO TV,  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:network-caching=1000
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
@@ -546,25 +546,32 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 
 #MALAYSIE
-#EXTINF:0,group-title="MALAYSIE" TV1, 
+#EXTINF:0,group-title="MALAYSIE" TV1 
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:0,group-title="MALAYSIE" TV2, #EXTVLCOPT:network-caching=1000
+#EXTINF:0,group-title="MALAYSIE" TV2 
+#EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:0, group-title="MALAYSIE" TV6, #EXTVLCOPT:network-caching=1000
+#EXTINF:0, group-title="MALAYSIE" TV6 
+#EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:0,group-title="MALAYSIE"  RTB ANEKA, #EXTVLCOPT:network-caching=1000
+#EXTINF:0,group-title="MALAYSIE"  RTB ANEKA 
+#EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:0, group-title="MALAYSIE"  RTB SUKMAINDERA, #EXTVLCOPT:network-caching=1000
+#EXTINF:0, group-title="MALAYSIE"  RTB SUKMAINDERA #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:0, group-title="MALAYSIE" AWANI, #EXTVLCOPT:network-caching=1000
+#EXTINF:0, group-title="MALAYSIE" AWANI 
+#EXTVLCOPT:network-caching=1000
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:0, group-title="MALAYSIE" BERITA RTM, #EXTVLCOPT:network-caching=1000
+#EXTINF:0, group-title="MALAYSIE" BERITA RTM
+#EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:0, group-title="MALAYSIE" DUNIA SINEMA, #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTINF:0, group-title="MALAYSIE" DUNIA SINEMA, 
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #EXTVLCOPT:network-caching=1000
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:0,group-title="MALAYSIE"  OKEY, #EXTVLCOPT:network-caching=1000
+#EXTINF:0,group-title="MALAYSIE"  OKEY, 
+#EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:0, group-title="MALAYSIE" PARLIMEN RAKYAT, #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
