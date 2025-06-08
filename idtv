@@ -27,7 +27,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="NASIONAL",ANTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="NASIONAL1",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
@@ -39,6 +39,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
 
 #NASIONAL2
+
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="NASIONAL2",RTV
@@ -217,7 +218,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 
-#ETC
+#LAIN-LAIN
+
 #EXTINF:0,group-title="LAIN-LAIN" DENS Life & Style, 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:network-caching=1000
@@ -245,31 +247,31 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
 
 #MUSIK
 
-#EXTINF:0,group-title="MUSIK" POP Music, 
+#EXTINF:0,group-title="MUSIK",POP Music 
 #EXTVLCOPT:network-caching=1000
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-#EXTINF:0,group-title="MUSIK" Maleo, 
+#EXTINF:0,group-title="MUSIK",Maleo 
 #EXTVLCOPT:network-caching=1000
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-#EXTINF:0,group-title="MUSIK" NOW 70, 
+#EXTINF:0,group-title="MUSIK",NOW 70 
 #EXTVLCOPT:network-caching=1000
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,group-title="MUSIK" NOW 80, 
+#EXTINF:0,group-title="MUSIK",NOW 80 
 #EXTVLCOPT:network-caching=1000
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0,group-title="MUSIK" NOW ROCK, 
+#EXTINF:0,group-title="MUSIK",NOW ROCK 
 #EXTVLCOPT:network-caching=1000
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,group-title="MUSIK" Trace Urban, 
+#EXTINF:0,group-title="MUSIK", Trace Urban 
 #EXTVLCOPT:network-caching=1000
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0,group-title="MUSIK" XITE 80s FLASHBLACK, 
 #EXTVLCOPT:network-caching=1000
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:0,group-title="MUSIK" XITE 90s THROWBACK, 
+#EXTINF:0,group-title="MUSIK", XITE 90s THROWBACK 
 #EXTVLCOPT:network-caching=1000
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:0,group-title="MUSIK" XITE ROCK ON, 
+#EXTINF:0,group-title="MUSIK", XITE ROCK ON 
 #EXTVLCOPT:network-caching=1000
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWF5iy7pz8qWStADdt3lRs1bQb465KYE7Yg&s", IMTV
@@ -492,38 +494,38 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10
 
 #KIDS
 
-#EXTINF:0, group-title="KIDS" KIDOODLE TV, 
+#EXTINF:0, group-title="KIDS",KIDOODLE TV 
 #EXTVLCOPT:network-caching=1000
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0, group-title="KIDS" KIDSFLIX, 
+#EXTINF:0, group-title="KIDS", KIDSFLIX 
 #EXTVLCOPT:network-caching=1000
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:0, group-title="KIDS" LEGO Kids TV, 
+#EXTINF:0, group-title="KIDS",LEGO Kids TV 
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
-#EXTINF:0, group-title="KIDS" MENTARI TV, 
+#EXTINF:0, group-title="KIDS",MENTARI TV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:network-caching=1000
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:0, group-title="KIDS" Dora TV, 
+#EXTINF:0, group-title="KIDS",Dora TV 
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
-#EXTINF:0,group-title="KIDS" PBS KIDS, 
+#EXTINF:0,group-title="KIDS",PBS KIDS 
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0, group-title="KIDS" TOONZKIDS, 
+#EXTINF:0, group-title="KIDS",TOONZKIDS 
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-#EXTINF:0, group-title="KIDS"  Transformers TV, 
+#EXTINF:0, group-title="KIDS",Transformers TV 
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
 #EXTINF:0, group-title="KIDS" ZOO MOO, 
 #EXTVLCOPT:network-caching=1000
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0,group-title="KIDS" ONE PIECE, 
+#EXTINF:0,group-title="KIDS",ONE PIECE 
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,group-title="KIDS" SMURF TV, 
+#EXTINF:0,group-title="KIDS", SMURF TV 
 #EXTVLCOPT:network-caching=1000
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png",FUN PLANET
@@ -546,7 +548,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 
 #MALAYSIE
-#EXTINF:0, group-title="MALAYSIE" tvg-id="" ",TV1
+
+#EXTINF:0, group-title="MALAYSIE",TV1
 #EXTVLCOPT:network-caching=1000 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:0, group-title="MALAYSIE",TV2 
 #EXTVLCOPT:network-caching=1000
